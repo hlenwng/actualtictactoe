@@ -31,7 +31,7 @@ int main() {
   int numOWins = 0;
   int numTies = 0;
   bool stillPlaying = true;
-  char input[2];
+  char input[3];
   char yon = 'y';
 
   // While player is still playing
